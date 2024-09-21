@@ -8,6 +8,8 @@ Blogging Webpage: A blog layout using Bootstrap's grid system, forms, and utilit
 
 Photo Gallery: A responsive photo gallery showcasing images with descriptive text overlays.
 
+Restaurant Menu: A restaurant table menu card layout which can also be use to order food at the table.
+
 Technologies Used:
 
 HTML
